@@ -1,0 +1,3 @@
+rootProject.name = 'UjianMobile1'
+
+include ':app'
